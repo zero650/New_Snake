@@ -94,4 +94,4 @@ def snakeLoop():
 # Initializations
 snake_body = []
 direction = [0, 0]
-gameLoop()
+snakeLoop()
